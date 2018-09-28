@@ -1,0 +1,23 @@
+unrelated log messages
+sd 0.0.0.0 Attached Disk Drive
+unrelated log messages
+sd 0.0.0.0 (SERIAL=ZZ123455)
+unrelated log messages
+sd 0.0.0.0 [sda] Options
+unrelated log messages
+XFS ERROR [sda]
+unrelated log messages
+sd 2.0.0.1 Attached Disk Drive
+unrelated log messages
+sd 2.0.0.1 (SERIAL=ZZ989384)
+unrelated log messages
+sd 2.0.0.1 [sdb] Options
+unrelated log messages
+sd 3.0.1.9 Attached Disk Drive
+unrelated log messages
+sd 3.0.1.9 (SERIAL=WW22222)
+unrelated log messages
+sd 3.0.1.9 [sdc] Options
+unrelated log messages
+XFS ERROR [sdc]
+unrelated log messages
